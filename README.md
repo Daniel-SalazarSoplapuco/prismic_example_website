@@ -1,3 +1,7 @@
+# Prismic Example Website
+This repository is meant to play arround with prismic, see its capability and how analytics can capture information.
+
+
 # Prismic + Next.js Multi-Page Starter
 
 Want to see an example of a multi-page website using [Prismic][prismic] and [Next.js][nextjs]? Look no further! This project provides all the code you need for a personal website with a homepage, information pages, and navigation.
