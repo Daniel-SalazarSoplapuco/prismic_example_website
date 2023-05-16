@@ -73,17 +73,16 @@ export default function App({ Component, pageProps }) {
             }}
           >
             <p>
-              <strong>👋 Welcome to your new website!</strong> To customize the
-              code and content of this site,{" "}
+              <strong>🚀 Welcome to my MVP website! 🚀</strong> To find the repository of this website follow this link,{" "}
               <a
-                href="https://github.com/prismicio-community/nextjs-starter-prismic-multi-page/tree/master/docs"
+                href="https://github.com/Daniel-SalazarSoplapuco/prismic_example_website"
                 target="_blank"
                 rel="noreferrer"
                 style={{ textDecoration: "underline" }}
               >
                 see the documentation
               </a>
-              . Remove this bar in <code>pages/_app.js</code>.
+              
             </p>
           </div>
         )}
