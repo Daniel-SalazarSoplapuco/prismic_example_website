@@ -1,6 +1,6 @@
 # Prismic Example Website
 This repository is meant to play arround with prismic, see its capability and how analytics can capture information.
-This is the[Website Link](https://helpful-madeleine-7bdc58.netlify.app/).
+This is the [Website Link](https://helpful-madeleine-7bdc58.netlify.app/).
 
 
 
